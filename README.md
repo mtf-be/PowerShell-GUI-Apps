@@ -1,5 +1,5 @@
 # PowerShell-GUI-Apps
-Those apps need always WMF 5.0
+Those apps needs always WMF 5.0
 
              ________________________________________________
             /                                                \
