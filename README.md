@@ -28,4 +28,4 @@ Feel free to use
     _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_
 
 
-Visit us @ [https://www.mtf.ch/de/?pl=thorishaus]
+Visit us @ [MTF Thörishaus](https://www.mtf.ch/de/?pl=thorishaus)
