@@ -1,5 +1,5 @@
 # PowerShell-GUI-Apps
-Feel free to use
+Those apps need always WMF 5.0
 
              ________________________________________________
             /                                                \
